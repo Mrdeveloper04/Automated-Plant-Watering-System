@@ -23,3 +23,14 @@ An IoT-based smart irrigation system that automatically waters plants based on s
 5.Jumper Wires
 6.Breadboard
 7.Power Supply
+
+⚙️ Working Principle
+
+Soil moisture sensor reads moisture level
+Microcontroller analyzes the data
+If soil is dry → Pump ON
+If soil is wet → Pump OFF
+Process repeats automatically
+
+Tinkercad Simulation
+👉 Live Project Link: https://www.tinkercad.com/things/gey5fzKCrj2-automated-plant-watering-system/editel?returnTo=https://www.tinkercad.com/dashboard/designs/circuits
