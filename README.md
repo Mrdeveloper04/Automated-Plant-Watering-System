@@ -1,10 +1,10 @@
 # Automated-Plant-Watering-System
 
-     An IoT-based smart irrigation system that automatically waters plants based on soil moisture levels. This project helps conserve water and ensures plants receive the right amount of hydration without manual intervention.
+An IoT-based smart irrigation system that automatically waters plants based on soil moisture levels. This project helps conserve water and ensures plants receive the right amount of hydration without manual intervention.
 
 📌 Project Overview
 
-    The Automated Plant Watering System uses a soil moisture sensor to monitor the water content in the soil. When the soil becomes dry, a water pump is automatically activated to irrigate the plant. Once sufficient moisture is detected, the system stops watering.
+ The Automated Plant Watering System uses a soil moisture sensor to monitor the water content in the soil. When the soil becomes dry, a water pump is automatically activated to irrigate the plant. Once sufficient moisture is detected, the system stops watering.
 
 🚀 Features
 
