@@ -16,10 +16,10 @@ An IoT-based smart irrigation system that automatically waters plants based on s
 
 🛠️ Components Required
 
-Arduino UNO / ESP8266 / ESP32
-Soil Moisture Sensor
-Relay Module
-Water Pump (DC Motor)
-Jumper Wires
-Breadboard
-Power Supply
+1.Arduino UNO / ESP8266 / ESP32
+2.Soil Moisture Sensor
+3.Relay Module
+4.Water Pump (DC Motor)
+5.Jumper Wires
+6.Breadboard
+7.Power Supply
